@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="puzzleOO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/puzzleOO_jar</output-path>
+    <root id="archive" name="puzzleOO.jar">
+      <element id="module-output" name="puzzleOO" />
+    </root>
+  </artifact>
+</component>
